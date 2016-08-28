@@ -1,5 +1,5 @@
 
-package com.example.draldo.retrofitapi.Modules;
+package com.example.draldo.retrofitapi.modules;
 
 import java.util.ArrayList;
 import java.util.List;
